@@ -268,7 +268,6 @@ strong {
 .columns {
   column-count: 2;
   column-gap: 3rem;
-  column-width: minmax(auto, 80ch);
   text-align: justify;
   hyphens: auto;
 }
