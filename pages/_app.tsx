@@ -20,6 +20,8 @@ export default function App({ Component, pageProps }: AppProps) {
           name="description"
           content="Rádi bychom pozvali všechny příznivce turistiky na tradiční pochod Provodínská Štrapanda pořádaný od roku 1975. Pořádá ♥ KČT Česká Lípa, OÚ Provodín"
         />
+        <meta name = "viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+        <meta name="theme-color" content="#1e3f58" />
 
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://provodinska-strapanda.cz/" />
